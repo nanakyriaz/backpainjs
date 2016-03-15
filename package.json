@@ -1,0 +1,23 @@
+{
+  "name": "backpainjs",
+  "version": "1.0.0",
+  "description": "Playing with Twitter and Backbone.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanakyriaz/backpainjs.git"
+  },
+  "keywords": [
+    "backbone",
+    "twitter"
+  ],
+  "author": "nanakyriaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanakyriaz/backpainjs/issues"
+  },
+  "homepage": "https://github.com/nanakyriaz/backpainjs#readme"
+}
