@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/nanakyriaz/backpainjs/issues"
   },
-  "homepage": "https://github.com/nanakyriaz/backpainjs#readme"
+  "homepage": "https://github.com/nanakyriaz/backpainjs#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^1.2.0",
+    "grunt-contrib-uglify": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "karma": "^0.13.22"
+  }
 }
